@@ -1,4 +1,7 @@
 # Google Drive Automation Using PyDrive
+#### Usage:
+* __This script is used mainly to upload or download all files & folders inside a specific folder.__
+#### Steps:
 1. Create your Google project
 2. Enable Google Drive API
 3. Download OAuth 2.0 Client IDs as a client_secrets.json file

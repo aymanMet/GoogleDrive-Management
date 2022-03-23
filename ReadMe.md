@@ -1,6 +1,6 @@
 # Google Drive Automation Using PyDrive
 #### Usage:
-* __This script is used mainly to upload or download all files & folders inside a specific folder.__
+* __This script is used mainly to upload or download all files & folders inside a specific folder between Google Drive & your local PC/Laptop.__
 #### Steps:
 1. Create your Google project
 2. Enable Google Drive API
